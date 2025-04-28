@@ -14,3 +14,4 @@ Making reports on top 5 product type
 identifying peak hours of the day
 
 # Project Dashboard:
+https://github.com/Mukaddishakhanam/Coffee-Shop-Analysis-in-Excel/blob/main/Coffee_shop_Sales.png
